@@ -28,6 +28,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+In addition, you can also embed images to your pages like so
+
+
+```markdown
+Example code for embedding images
+
+![Test Screen Shot](/images/ScreenShot.png)
+
+```
+
+Test Screen Shot
+
+![Test Screen Shot](/images/ScreenShot.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
