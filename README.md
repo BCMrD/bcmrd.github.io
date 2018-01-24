@@ -1,4 +1,6 @@
-## Welcome to Mr. D's Pages for B30
+# Welcome!!
+
+## Mr. D's GitHub Pages for B30
 
 You can use the [editor on GitHub](https://github.com/BCMrD/bcmrd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
