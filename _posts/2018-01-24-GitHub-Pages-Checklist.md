@@ -1,3 +1,7 @@
+---
+layout: post
+title: GitHub Pages Checklist
+---
 # GitHub Pages Checklist
 
 ### Setup
