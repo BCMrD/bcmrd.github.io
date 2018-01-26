@@ -40,7 +40,7 @@ Example code for embedding images
 
 Test Media
 
-![Test Audio File](/audio/trim.4E45A769-4D0B-4E34-B47B-79893C3D8275.MOV)
+[Test Audio File](/audio/trim.4E45A769-4D0B-4E34-B47B-79893C3D8275.MOV)
 
 Test Screen Shot
 
