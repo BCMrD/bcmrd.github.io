@@ -1,4 +1,4 @@
-# Welcome!!
+# Welcome!
 
 ### Mr. D's GitHub Pages for B30
 
@@ -37,6 +37,9 @@ Example code for embedding images
 ![Test Screen Shot](/images/ScreenShot.png)
 
 ```
+
+Test Media
+
 
 Test Screen Shot
 
