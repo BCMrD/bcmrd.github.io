@@ -15,7 +15,7 @@ Using two synths, Layered Kick Bass and Ambient Modwheel Morpher along with a dr
 
  ![Drummer Track Clean Setting](/images/L1DrummerClean.png)
 
-Using varying the intensity of the Swing parameter between contrasting drummer regions, I could match the feel of the swing in the Bass track.
+Varying the intensity of the Swing parameter between contrasting drummer regions, I could match the feel of the swing in the Bass track.
 
  ![Drummer Track Full Swing](/images/L1DrummerFull.png)
 
