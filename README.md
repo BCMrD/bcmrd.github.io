@@ -2,56 +2,34 @@
 
 ### Mr. D's GitHub Pages for B30
 
-You can use the [editor on GitHub](https://github.com/BCMrD/bcmrd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Porfolio Lesson Assignment Example coming soon!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-In addition, you can also embed images to your pages like so
+It might be handy to build a Portfolio Grading Rubric checklist right into your page.  Yes, Markdown can do checklists!!
 
 
-```markdown
-Example code for embedding images
+```checklist markdown
 
-![Test Screen Shot](/images/ScreenShot.png)
+[ ] Create and upload five (5) screenshots.
+[ ] Bounce Logic project and upload to audio folder.
+[ ] Write at least 250 words on your experience with the lesson.
+[ ] Audio plays back through external speakers.
+[ ] Screenshots render correctly.
+[ ] Text is legible.
+[ ] Demonstrate one tip for class.
 
 ```
-
-Test Media
-
-[Test Audio File](/audio/trim.4E45A769-4D0B-4E34-B47B-79893C3D8275.MOV)
-
-Test Screen Shot
-
-![Test Screen Shot](/images/ScreenShot.png)
+Feel free to copy the markdown above and modify as you see fit.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Customizing Jekyll Themes
+
+For lesson one we will just update our README markdown to include our Lesson 1 portfolio assignment.
+
+In the near future we will beging customizing our site using teh Jekyll site framework to add more pages and generate our portfolio blog.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BCMrD/bcmrd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Good luck!!
