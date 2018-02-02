@@ -1,8 +1,6 @@
 # Welcome!
 
-### Mr. D's GitHub Pages for B30
-
-Porfolio Lesson Assignment Example coming soon!
+# Mr. D's GitHub Pages for B30
 
 #### Example Portfolio Assignment 1:
 ##### Geeks vs. Zombies Youth Edition
