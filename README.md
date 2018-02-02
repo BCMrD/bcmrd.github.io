@@ -35,7 +35,6 @@ I moved the Song End Marker closer the end of the piece to prevent a bunch of de
 
 Here’s the end result: [Trash Can Fight - Geeks vs. Zombies Youth Edition](/audio/GVSYouthEd-TrashCanFight.m4a)
 
-
 ### Markdown
 
 It might be handy to build a Portfolio Grading Rubric checklist right into your page.  Yes, Markdown can do checklists!!
