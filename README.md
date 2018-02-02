@@ -11,13 +11,13 @@ It might be handy to build a Portfolio Grading Rubric checklist right into your 
 
 ```checklist markdown
 
-[ ] Create and upload five (5) screenshots.
-[ ] Bounce Logic project and upload to audio folder.
-[ ] Write at least 250 words on your experience with the lesson.
-[ ] Audio plays back through external speakers.
-[ ] Screenshots render correctly.
-[ ] Text is legible.
-[ ] Demonstrate one tip for class.
+- [ ] Create and upload five (5) screenshots.
+- [ ] Bounce Logic project and upload to audio folder.
+- [ ] Write at least 250 words on your experience with the lesson.
+- [ ] Audio plays back through external speakers.
+- [ ] Screenshots render correctly.
+- [ ] Text is legible.
+- [ ] Demonstrate one tip for class.
 
 ```
 Feel free to copy the markdown above and modify as you see fit.
