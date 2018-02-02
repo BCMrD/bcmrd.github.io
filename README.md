@@ -5,7 +5,7 @@
 Porfolio Lesson Assignment Example coming soon!
 
 #### Example Portfolio Assignment 1:
-#####Geeks vs. Zombies Youth Edition
+##### Geeks vs. Zombies Youth Edition
 
 ![Overview Screendhot](/images/L1Overview.png)
 
