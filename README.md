@@ -11,7 +11,7 @@ Porfolio Lesson Assignment Example coming soon!
 
 Since the production company did not have the rights to use the song used in the original production I was asked to come up with something that had the same feel.
 
-Beyond a similar feel the song needed to have pause neer the end to parallel the onstage action where the geeks check to see if the zombie is dead.
+Beyond a similar feel the song needed to have a pause near the end to parallel the onstage action where the geeks check to see if the zombie is dead.
 
  An interesting thing about the pause.  When using the arpeggiator plugin you must turn it off or it will keep arpeggiating the last chord played.  I used track based automation to turn the arpeggiator on and off.
  
