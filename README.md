@@ -9,7 +9,7 @@ Porfolio Lesson Assignment Example coming soon!
 It might be handy to build a Portfolio Grading Rubric checklist right into your page.  Yes, Markdown can do checklists!!
 
 
-```checklist markdown
+```markdown
 
 - [ ] Create and upload five (5) screenshots.
 - [ ] Bounce Logic project and upload to audio folder.
