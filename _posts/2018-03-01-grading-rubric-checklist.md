@@ -1,3 +1,8 @@
+---
+layout: default
+title: Grading Rubric Checklist
+---
+
 ### Markdown
 
 It might be handy to build a Portfolio Grading Rubric checklist right into your page.  Yes, Markdown can do checklists!!
