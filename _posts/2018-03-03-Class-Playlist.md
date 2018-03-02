@@ -3,7 +3,7 @@ layout: default
 title: Class Playlist
 ---
 
-### Running Class Playist
+### Running Class Playlist
 
 Just a way for us to keep track of what we’ve listened to in class.  If any of you are considering doing the “album review” for extra credit please consider selecting a track or two off this playlist. Ideally, you would review tracks that you did not suggest.  Keep your review focused to no more than three (3) tracks.
 
@@ -11,7 +11,6 @@ Just a way for us to keep track of what we’ve listened to in class.  If any of
 The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
-——————| —————————— | ————————————
 Baths | Animals | Emma
 Wooded | Iron | Kelly
 Marshmellow | Alone | Lydia
