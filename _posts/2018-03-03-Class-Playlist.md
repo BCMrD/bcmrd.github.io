@@ -12,7 +12,7 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 Baths | Animals | Emma
-Wooded | Iron | Kelly
+Woodkid | Iron | Kelly
 Marshmellow | Alone | Lydia
 Moonraver | Join the Army | Aaron
 NeiR | Weight of the World | Jesse
