@@ -12,6 +12,7 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - - 
+Conlon Nancarrow | Study for Player Piano No. 3a | Mr.D
 Baths | Animals | Emma
 Woodkid | Iron | Kelly
 Marshmellow | Alone | Lydia
