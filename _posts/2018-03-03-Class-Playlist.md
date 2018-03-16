@@ -12,6 +12,7 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - - 
+Beck | Where It's At | Kelly
 Gesaffelstein | Viol | Emma
 Arca | Sin Rumbo | Aaron
 Drezo | Heaven | Emma
