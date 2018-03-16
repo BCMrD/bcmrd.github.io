@@ -12,6 +12,9 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - - 
+Gesaffelstein | Viol | Emma
+Arca | Sin Rumbo | Aaron
+Drezo | Heaven | Emma
 Conlon Nancarrow | Study for Player Piano No. 3a | Mr.D
 Baths | Animals | Emma
 Woodkid | Iron | Kelly
