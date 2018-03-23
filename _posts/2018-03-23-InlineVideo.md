@@ -6,9 +6,9 @@ title: Inline Video Test
 ### Inline Video Test
 
 
-Here weg go...
+Here we go...
 
-[Arp it up!](/audio/InlineVideoTest.mov)
+[Arp it up](/audio/InlineVideoTest.mov)
 
 
 
