@@ -8,7 +8,7 @@ title: Inline Video Test
 
 Here we go...
 
-[Arp it up](/audio/InlineVideoTest.mov)
+![Arp it up](/audio/InlineVideoTest.mov)
 
 
 
