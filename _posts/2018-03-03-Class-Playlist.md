@@ -12,6 +12,9 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - - 
+Bjork |	Cocoon		Aaron
+FKA Twigs | Water Me | Emma
+Spoon | Can I Sit Next to You | Kelly
 Beck | Where It's At | Kelly
 Gesaffelstein | Viol | Emma
 Arca | Sin Rumbo | Aaron
