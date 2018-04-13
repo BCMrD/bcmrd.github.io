@@ -12,28 +12,26 @@ The artists we’ve listened to so far by class day...
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - - 
 Bjork |	[Cocoon](https://youtu.be/0lnAgKv_2tY)	| Aaron
-FKA Twigs | Water Me | Emma
-Spoon | Can I Sit Next to You | Kelly
-Beck | Where It's At | Kelly
-Gesaffelstein | Viol | Emma
-Arca | Sin Rumbo | Aaron
-Drezo | Heaven | Emma
-Conlon Nancarrow | Study for Player Piano No. 3a | Mr.D
-Baths | Animals | Emma
-Woodkid | Iron | Kelly
-Marshmellow | Alone | Lydia
-Moonraver | Join the Army | Aaron
+FKA Twigs | [Water Me](https://youtu.be/kFtMl-uipA8) | Emma
+Spoon | [Can I Sit Next to You](https://youtu.be/xt0QFoqNlBk) | Kelly
+Beck | [Where It's At](https://youtu.be/EPfmNxKLDG4) | Kelly
+Gesaffelstein | [Viol](https://youtu.be/CIpyBeBpC74) | Emma
+Arca | [Sin Rumbo](https://youtu.be/hE6OjTiMY3o) | Aaron
+Drezo | [Heaven](https://youtu.be/hN2A7Dl-o3k) | Emma
+Conlon Nancarrow | [Study for Player Piano No. 3a](https://youtu.be/pp2dWEYRzKY) | Mr.D
+Baths | [Animals](https://youtu.be/0WxwWFJiBAM) | Emma
+Woodkid | [Iron](https://youtu.be/vSkb0kDacjs) | Kelly
+Marshmellow | [Alone](https://youtu.be/ALZHF5UqnU4) | Lydia
+Moonraver | [Join the Army](https://youtu.be/4ooF9SOPT-A) | Aaron
 NeiR | Weight of the World | Jesse
-Blank Banshee | -B:/start up | Emma
-Elliot Smith | Between the Bars | Mr. D
-Gesaffelstein | Destinations | Aaron
+Blank Banshee | [-B:/start up](https://youtu.be/meP-GLKPekk) | Emma
+Elliot Smith | [Between the Bars](https://youtu.be/hPD-a1FjUtU) | Mr. D
+Gesaffelstein | [Destinations](https://youtu.be/jbVtROGXh50) | Aaron
 Earl Sweatshirts | Centurion | Nico
 Donna Burk | Glassy Sky | Jesse
 Kendrick Lamar | God | Emma
 Toadies | Possum Kingdom | Kelly
 Lucien | Just a Cloud | Guinevere
-Conlon Nancarrow | Study for Player Piano No. 3a | Mr.D
-
 
 
 For more details on how to create and populate tables in Markdown see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
