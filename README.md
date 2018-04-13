@@ -10,7 +10,10 @@ Just a way for us to keep track of what we’ve listened to in class.  If any of
 The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
-- - - | - - - - -  | - - - - - - 
+- - - | - - - - -  | - - - - - -
+New Order | [Blue Monday](https://youtu.be/9GMjH1nR0ds) | Emma
+Edgar Winter | [frankenstein](https://youtu.be/P8f-Qb-bwlU) | Kelly
+Superorganism | [Everybody Wants to Be Famous](https://youtu.be/mJQYRzAoErc) | Guinevere 
 Bjork |	[Cocoon](https://youtu.be/0lnAgKv_2tY)	| Aaron
 FKA Twigs | [Water Me](https://youtu.be/kFtMl-uipA8) | Emma
 Spoon | [Can I Sit Next to You](https://youtu.be/xt0QFoqNlBk) | Kelly
