@@ -11,11 +11,11 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - -
-Sophie | [Faceshopping] (https://youtu.be/es9-P1SOeHU) | Aaron
-Neon Indian | [Baby’s Eyes] (https://youtu.be/P2EHOjEJlQE) | Emma
-Alt J | [Hunger of the Pine] (https://youtu.be/dCCXq9QB-dQ) | Kelly 
-Barca | [Pillow Queen] (https://youtu.be/Mh20fVDXGAQ) | Aaron
-Avicii | [Wake Me Up] (https://youtu.be/IcrbM1l_BoI) | RIP
+Sophie | [Faceshopping](https://youtu.be/es9-P1SOeHU) | Aaron
+Neon Indian | [Baby’s Eyes](https://youtu.be/P2EHOjEJlQE) | Emma
+Alt J | [Hunger of the Pine](https://youtu.be/dCCXq9QB-dQ) | Kelly 
+Barca | [Pillow Queen](https://youtu.be/Mh20fVDXGAQ) | Aaron
+Avicii | [Wake Me Up](https://youtu.be/IcrbM1l_BoI) | RIP
 New Order | [Blue Monday](https://youtu.be/9GMjH1nR0ds) | Emma
 Edgar Winter | [frankenstein](https://youtu.be/P8f-Qb-bwlU) | Kelly
 Superorganism | [Everybody Wants to Be Famous](https://youtu.be/mJQYRzAoErc) | Guinevere 
