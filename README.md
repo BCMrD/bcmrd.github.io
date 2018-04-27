@@ -11,6 +11,9 @@ The artists we’ve listened to so far by class day...
 
 Artist| Song Title | Suggested By
 - - - | - - - - -  | - - - - - -
+Lorn | [Acid Rain](https://youtu.be/nxg4C365LbQ) | Aaron
+Capital Cities | [Farrah Fawcett Hair](https://youtu.be/_OTRIp6nxB0) | Kelly
+Saint Pepsi | [Private Caller](https://youtu.be/Ki-fATpXa00) | Emma
 Sophie | [Faceshopping](https://youtu.be/es9-P1SOeHU) | Aaron
 Neon Indian | [Baby’s Eyes](https://youtu.be/P2EHOjEJlQE) | Emma
 Alt J | [Hunger of the Pine](https://youtu.be/dCCXq9QB-dQ) | Kelly 
